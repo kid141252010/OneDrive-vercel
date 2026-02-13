@@ -56,8 +56,8 @@ module.exports = {
       link: 'https://github.com/kid141252010',
     },
     {
-      name: 'envelope-open',
-      link: 'https://web.mail.1412520.xyz',
+      name: 'bilibili',
+      link: 'https://space.bilibili.com/669285887',
     },
   ],
 
