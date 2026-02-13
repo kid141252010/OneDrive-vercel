@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/kid141252010',
     },
+    {
+      name: 'envelope-open',
+      link: 'https://web.mail.1412520.xyz',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
